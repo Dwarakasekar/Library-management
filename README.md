@@ -1,3 +1,3 @@
-# http://librarymsys.infinityfreeapp.com
+# http://library-management-sys
 
 Import library_managment.sql on database
