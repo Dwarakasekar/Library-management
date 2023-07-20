@@ -1,3 +1,3 @@
-# http://http://Library-managment-system
+# http://Library-managment-system
 
 Import library_managment.sql on database
